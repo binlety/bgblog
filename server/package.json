@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "express": "^4.16.4"
+  },
+  "dependencies": {
+    "mongoose": "^5.5.5"
+  }
+}
